@@ -1,0 +1,13 @@
+.productcard{
+    height: 150px;
+    width: 150px;
+    border-radius: 20;
+    border: "1px solid white";
+    background-color: rgb(54, 40, 20);
+    margin-right: 20px;
+}
+
+
+.productcard:hover{
+    background-color: blue;
+}
